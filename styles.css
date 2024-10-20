@@ -1,0 +1,44 @@
+header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+ 
+section {
+  margin-bottom: 30px;
+}
+ 
+h2 {
+  color: #007bff;
+  margin-bottom: 15px;
+}
+ 
+p {
+  line-height: 1.6;
+}
+ 
+.portfolio-item {
+  margin-bottom: 20px;
+}
+ 
+footer {
+  background-color: #007bff;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+ 
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+ 
+nav ul li:last-child {
+  margin-right: 0;
+}
